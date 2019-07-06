@@ -1,0 +1,4 @@
+a=int(input())
+x=a//10
+z=a%10
+print(str(x)+' '+str(z))
